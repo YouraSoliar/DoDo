@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DoDo</string>
+    <string name="edit_text_title">title...</string>
+    <string name="edit_text_description">description...</string>
+    <string name="radio_low">low</string>
+    <string name="radio_medium">medium</string>
+    <string name="radio_high">high</string>
+    <string name="text_view_save">save</string>
+
+    <string-array name="repeat_item">
+        <item>Never</item>
+    </string-array>
 </resources>
